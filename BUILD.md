@@ -1,4 +1,8 @@
 # How to build
+
+## Requirements
+JDK 14.0.1 was used for this project
+
 ## Clone this repo
 git clone https://github.com/MohamedLiratni/ContributionProject.git
 cd ContributionProject
