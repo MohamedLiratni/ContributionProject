@@ -1,0 +1,2 @@
+# ContributionProject
+Hospital Management System is an information management system designed to help manage the various aspects of a hospital (Department, Doctor (Regular, OnCall), Salary, and the different types of Patient classes). Hospital Management System enables access to the right information and automation of complex task, thereby allowing the Doctor to spend more time caring for patients.
